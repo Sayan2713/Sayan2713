@@ -10,9 +10,11 @@
 # 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sayan2713&show_icons=true&theme=cobalt" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Sayan2713&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true" />
+
   <img src="https://streak-stats.demolab.com?user=Sayan2713&theme=cobalt" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sayan2713&layout=compact&theme=cobalt" />
+
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Sayan2713&layout=compact&theme=cobalt" />
 </p>
 
 ## 🏆 GitHub Trophies
