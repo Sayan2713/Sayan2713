@@ -10,11 +10,11 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sayan2713&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&token=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" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sayan2713&show_icons=true&theme=tokyonight&hide=contribs,prs" />
 
   <img src="https://streak-stats.demolab.com?user=Sayan2713&theme=tokyonight" />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sayan2713&layout=compact&theme=tokyonight&token=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" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sayan2713&layout=compact&theme=tokyonight" />
 </p>
 
 ## 🏆 GitHub Trophies
