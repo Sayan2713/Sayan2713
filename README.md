@@ -29,7 +29,7 @@ Trip Calculator is a full-stack travel expense management platform that helps us
 
 **Tech Stack:** React.js • Tailwind CSS • Node.js • Express • MongoDB  • JWT • SendGrid
 
-[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-TourGuy-4ea94b?style=for-the-badge)](https://tripcalculator.in)
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-TripCalculator-4ea94b?style=for-the-badge)](https://tripcalculator.in)
 
 ## Key Features
 
@@ -59,7 +59,7 @@ Graphics: WebGL
 Icons: Lucide React
 Styling: Modern CSS, Glassmorphism UI
 
-[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-TourGuy-4ea94b?style=for-the-badge)](https://air-green-one.vercel.app/)
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-AirDraw-4ea94b?style=for-the-badge)](https://air-green-one.vercel.app/)
 
 ## Key Features
 
